@@ -1,7 +1,7 @@
 # WebAssembly
 Learning WebAssembly with basic functionalities.
 
-## Installing (We wont be needing this steps if planned to use existing)
+## Installing (Only required for new projects)
 ```
 npm init
 npm install --save @assemblyscript/loader
